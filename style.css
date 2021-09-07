@@ -1,0 +1,24 @@
+.first {
+  color: rgb(255, 230, 0);
+  font-family: "Akronim";
+}
+
+.second {
+  color: rgb(255, 0, 119);
+  font-family: "Fredericka the Great";
+}
+
+.third {
+  color: rgb(9, 255, 0);
+  font-family: "Caveat Brush";
+}
+
+.fourth {
+  color: turquoise;
+  font-family: "Shadows Into Light";
+}
+
+.fifth {
+  color: indigo;
+  font-family: "Zilla Slab";
+}
